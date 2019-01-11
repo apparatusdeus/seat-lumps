@@ -1,0 +1,202 @@
+{
+    "availableCount": 14,
+    "areas": [
+        {
+            "availableCount": 9,
+            "date": "2019-01-11T19:30:00+0000",
+            "name": "Circle",
+            "mode": "allocated",
+            "isAvailable": true,
+            "groupings": [
+                {
+                    "row": "A",
+                    "seatNumberStart": 1,
+                    "seatNumberEnd": 2,
+                    "availableCount": 2,
+                    "isAvailable": true,
+                    "attributes": {
+                        "restrictedView": true,
+                        "sideView": false
+                    },
+                    "seats": [
+                        {
+                            "row": "A",
+                            "number": 1,
+                            "isAvailable": true,
+                            "attributes": {
+                                "restrictedView": true,
+                                "sideView": false
+                            }
+                        },
+                        {
+                            "row": "A",
+                            "number": 2,
+                            "isAvailable": true,
+                            "attributes": {
+                                "restrictedView": true,
+                                "sideView": false
+                            }
+                        }
+                    ]
+                },
+                {
+                    "row": "A",
+                    "seatNumberStart": 5,
+                    "seatNumberEnd": 7,
+                    "availableCount": 3,
+                    "isAvailable": true,
+                    "attributes": {
+                        "restrictedView": true,
+                        "sideView": false
+                    },
+                    "seats": [
+                        {
+                            "row": "A",
+                            "number": 5,
+                            "isAvailable": true,
+                            "attributes": {
+                                "restrictedView": true,
+                                "sideView": false
+                            }
+                        },
+                        {
+                            "row": "A",
+                            "number": 6,
+                            "isAvailable": true,
+                            "attributes": {
+                                "restrictedView": true,
+                                "sideView": false
+                            }
+                        },
+                        {
+                            "row": "A",
+                            "number": 7,
+                            "isAvailable": true,
+                            "attributes": {
+                                "restrictedView": true,
+                                "sideView": false
+                            }
+                        }
+                    ]
+                },
+                {
+                    "row": "B",
+                    "seatNumberStart": 1,
+                    "seatNumberEnd": 4,
+                    "availableCount": 4,
+                    "isAvailable": true,
+                    "attributes": {
+                        "restrictedView": false,
+                        "sideView": false
+                    },
+                    "seats": [
+                        {
+                            "row": "B",
+                            "number": 1,
+                            "isAvailable": true,
+                            "attributes": {
+                                "restrictedView": false,
+                                "sideView": false
+                            }
+                        },
+                        {
+                            "row": "B",
+                            "number": 2,
+                            "isAvailable": true,
+                            "attributes": {
+                                "restrictedView": false,
+                                "sideView": false
+                            }
+                        },
+                        {
+                            "row": "B",
+                            "number": 3,
+                            "isAvailable": true,
+                            "attributes": {
+                                "restrictedView": false,
+                                "sideView": false
+                            }
+                        },
+                        {
+                            "row": "B",
+                            "number": 4,
+                            "isAvailable": true,
+                            "attributes": {
+                                "restrictedView": false,
+                                "sideView": false
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "availableCount": 5,
+            "date": "2019-01-11T19:30:00+0000",
+            "name": "Stalls",
+            "mode": "allocated",
+            "isAvailable": true,
+            "groupings": [
+                {
+                    "row": "C",
+                    "seatNumberStart": 1,
+                    "seatNumberEnd": 5,
+                    "availableCount": 5,
+                    "isAvailable": true,
+                    "attributes": {
+                        "restrictedView": true,
+                        "sideView": false
+                    },
+                    "seats": [
+                        {
+                            "row": "C",
+                            "number": 1,
+                            "isAvailable": true,
+                            "attributes": {
+                                "restrictedView": true,
+                                "sideView": false
+                            }
+                        },
+                        {
+                            "row": "C",
+                            "number": 2,
+                            "isAvailable": true,
+                            "attributes": {
+                                "restrictedView": true,
+                                "sideView": false
+                            }
+                        },
+                        {
+                            "row": "C",
+                            "number": 3,
+                            "isAvailable": true,
+                            "attributes": {
+                                "restrictedView": true,
+                                "sideView": false
+                            }
+                        },
+                        {
+                            "row": "C",
+                            "number": 4,
+                            "isAvailable": true,
+                            "attributes": {
+                                "restrictedView": true,
+                                "sideView": false
+                            }
+                        },
+                        {
+                            "row": "C",
+                            "number": 5,
+                            "isAvailable": true,
+                            "attributes": {
+                                "restrictedView": true,
+                                "sideView": false
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+
