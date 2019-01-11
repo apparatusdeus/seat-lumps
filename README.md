@@ -11,21 +11,22 @@ desired solution.
 We're selling tickets for shows, they can be Theatre, Musicals, Music Concert etc...
 Let's have a look at our ubiquitous language.
 
-- A show is defined by a product (example: "Wicked"), a date and a time.
+- A show is defined by a product (example: Wicked), a date and a time.
 - A ticket is defined by a show and a seat (example: row A, number 3).
 
 A customer can select a lump of seats on a venue seat plan.
 
 - A lump is a series of adjacent seats within a group of seats.
-- A group of seat is a series of adjacent seats of a specific price, they belongs
+- A group of seats is a series of adjacent seats of a specific price, they belongs
 to one area in the venue.
+- An area is a part of venue which contains a list of seat groups (example: CIRCLE, STALLS).
 
 The seat plan is displayed with all seats. Available seats groups are displayed
 with a specific color depending on the price.
 
 ![Seat plan](seat-plan.png)
 
-You can find and example of a list of available seats groups for a show from our
+You can find an example of a list of available seat groups for a show from our
 Inventory API in the file `availability.json`
 
 You can retrieve the data with our Mock http client like this:
