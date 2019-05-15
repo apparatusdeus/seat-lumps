@@ -16,6 +16,6 @@ class MockInventoryHttpClient
      */
     public function request(string $method, string $uri): string
     {
-        return file_get_contents('../availability.json');
+        return file_get_contents(__DIR__ . '/../../availability.json');
     }
 }
